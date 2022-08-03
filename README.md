@@ -1,6 +1,6 @@
 # DEMO APP
 
-Just click this [Demo Netflix Clone](https://netflix-clone-es0nqekdh-mirfanfad.vercel.app/).
+Just click this [Demo Netflix Clone](https://netflix-clone-nafryze.vercel.app/).
 
 # Getting Started with Create React App
 
