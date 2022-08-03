@@ -1,3 +1,7 @@
+# DEMO APP
+
+Just click this [Demo Netflix Clone](https://netflix-clone-es0nqekdh-mirfanfad.vercel.app/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
