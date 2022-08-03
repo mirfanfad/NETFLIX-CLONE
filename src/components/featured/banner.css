@@ -1,0 +1,84 @@
+.banner {
+  height: 90vh;
+  position: relative;
+}
+
+.category {
+  position: absolute;
+  top: 80px;
+  left: 50px;
+  font-size: 30px;
+  font-weight: 700;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.select {
+  cursor: pointer;
+  background-color: #0b0b0b;
+  border-radius: 1px solid white;
+  color: white;
+  margin-left: 20px;
+  padding: 5px;
+}
+
+.bannerImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.info {
+  width: 35%;
+  position: absolute;
+  left: 50px;
+  bottom: 100px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.infoTitle{
+  font-size: 4rem;
+  text-shadow: 2px 2px 8px #0b0b0b;
+}
+
+.infoImg {
+  width: 400px;
+}
+
+.desc {
+  margin: 20px 0px;
+}
+
+.buttons {
+  display: flex;
+}
+
+.infoButton {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: 700;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.buttonText {
+  margin-left: 5px;
+}
+
+.play {
+  background-color: white;
+  color: #0b0b0b;
+}
+
+.more {
+  background-color: grey;
+  color: white;
+}
